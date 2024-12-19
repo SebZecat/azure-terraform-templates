@@ -1,4 +1,4 @@
-# azure-terraform-templates
+# Azure Terraform Template
 Azure Terraform
 
 ## Structure
@@ -14,7 +14,7 @@ Azure Terraform
 
 ### Prerequisites
 
-- Install [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) for Windows choose AMD64.
+- Install [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), for Windows choose AMD64.
 - Azure account with required rights for Terraform.
 - Install [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli) and authenticate with `az login`.
 
