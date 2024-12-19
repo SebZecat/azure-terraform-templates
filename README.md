@@ -1,7 +1,7 @@
 # azure-terraform-templates
-Azure Terraform Mal
+Azure Terraform
 
-## structure
+## Structure
 
 - main.tf: main configuration file
 - variables.tf: defines variables
@@ -10,4 +10,12 @@ Azure Terraform Mal
 - install_mariadb.sh: installation and configuration of MariaDB for the DB servers
 - playbook.yml: ansible playbook for web server configuration
 
-## structure
+## Instructions
+
+### Prerequisites
+
+- Install [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) for Windows choose AMD64.
+- Azure account with required rights for Terraform.
+- Install [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli) and authenticate with `az login`.
+
+### Download
